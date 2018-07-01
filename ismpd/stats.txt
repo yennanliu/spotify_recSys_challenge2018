@@ -1,0 +1,157 @@
+
+number of playlists 1000
+number of tracks 37583
+number of unique tracks 9784
+number of unique albums 6117
+number of unique artists 3003
+number of unique titles 741
+number of playlists with descriptions 1
+number of unique normalized titles 623
+avg playlist length 37.583
+
+top playlist titles
+     23 party
+     18 workout
+     18 rap
+     12 summer 2013
+     10 90's
+      9 summer
+      9 pop
+      8 classic rock
+      8 oldies
+      8 music
+      8 rock
+      8 hip hop
+      8 run
+      7 road trip playlist
+      7 90s
+      6 eminem
+      6 work
+      6 2012
+      6 playlist
+      6 <3
+
+top tracks
+    166 Thrift Shop (feat. Wanz) by Macklemore & Ryan Lewis
+    158 Radioactive by Imagine Dragons
+    152 Can't Hold Us - feat. Ray Dalton by Macklemore & Ryan Lewis
+    137 Ho Hey by The Lumineers
+    132 Some Nights by fun.
+    123 It's Time by Imagine Dragons
+    121 I Love It (feat. Charli XCX) - feat. Charli XCX [Original Version] by Icona Pop
+    112 We Are Young (feat. Janelle Monáe) - feat. Janelle Monae by fun.
+    111 Locked Out Of Heaven by Bruno Mars
+    104 Blurred Lines by Robin Thicke
+    103 Titanium (feat. Sia) - feat. Sia by David Guetta
+    102 Little Talks by Of Monsters and Men
+     97 Sail by AWOLNATION
+     91 Ni**as In Paris by JAY Z
+     91 Suit & Tie by Justin Timberlake
+     90 I Will Wait by Mumford & Sons
+     89 Sweet Nothing by Calvin Harris
+     87 F**kin' Problems by A$AP Rocky
+     85 Started From the Bottom by Drake
+     83 Mirrors by Justin Timberlake
+
+top artists
+    520 Eminem
+    516 Drake
+    468 Rihanna
+    461 Lil Wayne
+    434 JAY Z
+    421 Imagine Dragons
+    417 Macklemore & Ryan Lewis
+    394 Bruno Mars
+    394 Kanye West
+    362 Justin Timberlake
+    358 Maroon 5
+    332 fun.
+    295 Flo Rida
+    268 David Guetta
+    254 Kendrick Lamar
+    252 Mumford & Sons
+    239 The Lumineers
+    239 Katy Perry
+    235 Usher
+    235 Calvin Harris
+
+numedits histogram
+    196 2
+    139 3
+    103 4
+     84 5
+     73 6
+     59 7
+     45 8
+     35 9
+     28 11
+     27 10
+     23 15
+     22 12
+     20 14
+     18 13
+     18 16
+     17 18
+      9 17
+      7 19
+      7 22
+      6 20
+
+last modified histogram
+     15 2013-08-01
+     14 2013-07-30
+     13 2013-04-23
+     13 2013-06-11
+     13 2013-05-20
+     12 2013-07-20
+     12 2013-07-08
+     12 2013-07-21
+     11 2013-04-09
+     11 2013-05-23
+     11 2013-07-10
+     11 2013-04-29
+     10 2013-05-10
+     10 2013-04-04
+     10 2013-04-30
+     10 2013-07-31
+     10 2013-07-15
+     10 2013-07-25
+      9 2013-05-15
+      9 2013-07-11
+
+playlist length histogram
+     29 15
+     28 14
+     28 23
+     26 8
+     25 11
+     24 17
+     24 20
+     23 10
+     23 13
+     23 16
+     23 18
+     23 30
+     22 9
+     22 22
+     22 25
+     22 35
+     21 5
+     19 21
+     18 12
+     18 24
+
+num followers histogram
+    811 1
+    124 2
+     39 3
+      9 4
+      4 5
+      3 6
+      3 7
+      2 9
+      1 8
+      1 460
+      1 12
+      1 20
+      1 26
